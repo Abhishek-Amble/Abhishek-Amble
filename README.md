@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Abhishek-Amble
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m @Abhishek-Amble.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Advanced Java.
 - 💞️ I’m looking to collaborate on Web-App Technology.
 - 📫 How to reach me : canyouseeme1441@gmail.com
-- ✨ Languages and Tools: Java | C | C++ | HTML | CSS | JS | Solidity | TinkerCad | Matlab (Simulink) | GIT | MySQL |. 
+- ✨ Languages and Tools: Java | C | C++ | HTML | CSS | JS | Solidity | TinkerCad | Matlab (Simulink) | GIT | MySQL . 
 
 <!---
 Abhishek-Amble/Abhishek-Amble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
